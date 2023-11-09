@@ -1,0 +1,1 @@
+Please clone OpenEXR and zlib repositories (ext/openexr and ext/zlib) in this folder.

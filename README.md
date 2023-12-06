@@ -20,7 +20,7 @@ For more detailed information, please refer to our project page or other materia
 * [Project page](https://cglab.gist.ac.kr/siga23iduw/)
 * [Paper](https://drive.google.com/file/d/1tjtUhFayfKRGUPjFfAc7QqtXWHNf8hvA/view?usp=sharing)
 * [Supplementary report](https://drive.google.com/file/d/1sm-Fo8aG-PIUGUeV2Kc2q3eQWzeMTNzy/view?usp=sharing)
-* [Interactive viewer](https://jongheeback.github.io/input-dependent-uncorrelated-weighting-supp/index.html)
+* [Interactive viewer](https://cglab-gist.github.io/input-dependent-uncorrelated-weighting-supp/index.html)
 
 
 

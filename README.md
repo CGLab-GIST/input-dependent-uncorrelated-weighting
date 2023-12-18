@@ -70,7 +70,22 @@ All source codes are released under a [BSD License](license).
 ## Citation
 
 ```
-TBA
+@inproceedings{Back23,
+author = {Back, Jonghee and Hua, Binh-Son and Hachisuka, Toshiya and Moon, Bochang},
+title = {Input-Dependent Uncorrelated Weighting for Monte Carlo Denoising},
+year = {2023},
+isbn = {9798400703157},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3610548.3618177},
+doi = {10.1145/3610548.3618177},
+booktitle = {SIGGRAPH Asia 2023 Conference Papers},
+articleno = {9},
+numpages = {10},
+keywords = {Monte Carlo denoising, unbiased denoising, input-dependent weighting, uncorrelated weighting},
+location = {<conf-loc>, <city>Sydney</city>, <state>NSW</state>, <country>Australia</country>, </conf-loc>},
+series = {SA '23}
+}
 ```
 
 ## Contact
